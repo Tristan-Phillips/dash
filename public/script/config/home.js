@@ -27,7 +27,7 @@ const CONFIG = {
       //['q', { name: 'Quirks', url: 'https://dash.trap.lol/hub/q' }],
       ['r', { name: 'Recipes', url: 'https://recipe.trap.lol' }],
       //['s', { name: 'Social', url: 'https://dash.trap.lol/hub/s' }],
-      ['t', { name: 'Tools', url: 'https://dash.trap.lol/hub/t' }],
+      //['t', { name: 'Tools', url: 'https://dash.trap.lol/hub/t' }],
       //['u', { name: 'Upload', url: 'https://dash.trap.lol/hub/u' }],
       //['v', { name: 'Virtual', url: 'https://dash.trap.lol/hub/v' }],
       //['w', { name: 'Watch List', url: 'https://watch.trap.lol' }],
