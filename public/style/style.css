@@ -1,0 +1,43 @@
+:root {
+--border-radius: 1rem;
+--color-background: #111;
+--color-text-subtle: #888;
+--color-text: #eee;
+--font-family: -apple-system, Helvetica, sans-serif;
+--font-size: clamp(16px, 1.6vw, 18px);
+--font-weight-bold: 700;
+--font-weight-normal: 400;
+--space: 1rem;
+--transition-speed: 200ms;
+}
+
+@media (prefers-color-scheme: light) {
+:root {
+    --color-background: #e8e8e8;
+    --color-text-subtle: #606060;
+    --color-text: #111;
+    }
+}
+
+html {
+    background-color: var(--color-background);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: 1.4;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    overflow: hidden;
+    padding: calc(var(--space) * 4) var(--space);
+    position: relative;
+    width: 100vw;
+}
