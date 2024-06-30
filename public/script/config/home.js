@@ -1,8 +1,8 @@
 const CONFIG = {
       commandPathDelimiter: '/',
       commandSearchDelimiter: ' ',
-      //defaultSearchTemplate: 'https://duckduckgo.com/?q={}',
-      defaultSearchTemplate: 'https://kagi.com/search?q={}',
+      defaultSearchTemplate: 'https://duckduckgo.com/?q={}',
+      //defaultSearchTemplate: 'https://kagi.com/search?q={}',
       openLinksInNewTab: false,
       suggestionLimit: 4,
     };
