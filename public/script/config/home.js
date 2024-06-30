@@ -11,7 +11,7 @@ const CONFIG = {
       //['a', { name: 'AI', url: 'https://dash.trap.lol/hub/a' }],
       ['b', { name: 'Blogs', url: 'https://blog.trap.lol' }],
       ['c', { name: 'Cyberchef', url: 'https://cyberchef.trap.lol' }],
-      //['d', { name: 'Storage', url: 'https://dash.trap.lol/hub/d' }],
+      ['d', { name: 'Database', url: 'https://db.trap.lol' }],
       //['e', { name: 'Entertainment', url: 'https://dash.trap.lol/hub/e' }],
       ['f', { name: 'RSS Feed', url: 'https://rss.trap.lol' }],
       //['g', { name: 'Gaming', url: 'https://dash.trap.lol/hub/g' }],
