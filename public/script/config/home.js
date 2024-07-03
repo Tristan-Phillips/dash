@@ -26,7 +26,7 @@ const CONFIG = {
       ['p', { name: 'PDF Tools', url: 'https://pdf.trap.lol' }],
       //['q', { name: 'Quirks', url: 'https://dash.trap.lol/hub/q' }],
       ['r', { name: 'Recipes', url: 'https://recipe.trap.lol' }],
-      ['s', { name: 'Password Share', url: 'https://pwpush.trap.lol' }],
+      ['s', { name: 'PW Share', url: 'https://pwpush.trap.lol' }],
       //['t', { name: 'Tools', url: 'https://dash.trap.lol/hub/t' }],
       //['u', { name: 'Upload', url: 'https://dash.trap.lol/hub/u' }],
       //['v', { name: 'Virtual', url: 'https://dash.trap.lol/hub/v' }],
