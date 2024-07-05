@@ -33,7 +33,7 @@ const CONFIG = {
       ['w', { name: 'Web Check', url: 'https://webcheck.trap.lol/' }],
       //['x', { name: 'Seven Seas', url: 'https://dash.trap.lol/hub/x' }],
       ['y', { name: 'YT Download', url: 'https://ytdlp.trap.lol/' }],
-      //['z', { name: 'Proxies', url: 'https://dash.trap.lol/hub/s' }],
+      ['z', { name: 'WhiteBoard', url: 'https://wbo.trap.lol' }],
       [
         '0',
         {
