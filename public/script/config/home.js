@@ -9,7 +9,7 @@ const CONFIG = {
   
     const COMMANDS = new Map([
       //['a', { name: 'AI', url: 'https://dash.trap.lol/hub/a' }],
-      ['b', { name: 'Blogs', url: 'https://blog.trap.lol' }],
+      //['b', { name: 'Blogs', url: 'https://blog.trap.lol' }],
       ['c', { name: 'Cyberchef', url: 'https://cyberchef.trap.lol' }],
       ['d', { name: 'Database', url: 'https://db.trap.lol' }],
       //['e', { name: 'Entertainment', url: 'https://dash.trap.lol/hub/e' }],
@@ -18,7 +18,7 @@ const CONFIG = {
       //['h', { name: 'Health', url: 'https://dash.trap.lol/hub/h' }],
       ['i', { name: 'IT-Tools', url: 'https://it-tools.trap.lol' }],
       //['j', { name: 'Jobs', url: 'https://dash.trap.lol/hub/j' }],
-      ['k', { name: 'Knowledge', url: 'https://knowledge.trap.lol' }],
+      //['k', { name: 'Knowledge', url: 'https://knowledge.trap.lol' }],
       //['l', { name: 'Legal', url: 'https://dash.trap.lol/hub/l' }],
       ['m', { name: 'Memos', url: 'https://memo.trap.lol/' }],
       //['n', { name: 'News', url: 'https://dash.trap.lol/hub/n' }],
