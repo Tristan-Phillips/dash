@@ -8,20 +8,20 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['a', { name: 'Anime', url: 'https://dash.trap.lol/hub/torrents/anime' }],
-      //['b', { name: 'TorrentGalaxy', url: 'https://torrentgalaxy.mx/' }],
+      //['a', { name: '1337x', url: 'https://1337x.to' }],
+      ['b', { name: 'Beatrice-raw', url: 'https://beatrice-raws.org/' }],
       //['c', { name: 'Cyberchef', url: 'https://cyberchef.trap.lol' }],
       //['d', { name: 'Database', url: 'https://db.trap.lol' }],
       //['e', { name: 'Entertainment', url: 'https://dash.trap.lol/hub/e' }],
       //['f', { name: 'RSS Feed', url: 'https://rss.trap.lol' }],
-      ['g', { name: 'General', url: 'https://dash.trap.lol/hub/torrents/general' }],
+      //['g', { name: 'Gaming', url: 'https://dash.trap.lol/hub/g' }],
       //['h', { name: 'Health', url: 'https://dash.trap.lol/hub/h' }],
       //['i', { name: 'IT-Tools', url: 'https://it-tools.trap.lol' }],
       //['j', { name: 'Jobs', url: 'https://dash.trap.lol/hub/j' }],
       //['k', { name: 'Knowledge', url: 'https://knowledge.trap.lol' }],
       //['l', { name: 'Legal', url: 'https://dash.trap.lol/hub/l' }],
       //['m', { name: 'Memos', url: 'https://memo.trap.lol/' }],
-      //['n', { name: 'News', url: 'https://dash.trap.lol/hub/n' }],
+      ['n', { name: 'Nyaa', url: 'https://nyaa.si/' }],
       //['o', { name: 'OPSEC', url: 'https://dash.trap.lol/hub/o' }],
       //['p', { name: 'PDF Tools', url: 'https://pdf.trap.lol' }],
       //['q', { name: 'Quirks', url: 'https://dash.trap.lol/hub/q' }],
@@ -31,7 +31,7 @@ const CONFIG = {
       //['u', { name: 'Upload', url: 'https://dash.trap.lol/hub/u' }],
       //['v', { name: 'Virtual', url: 'https://dash.trap.lol/hub/v' }],
       //['w', { name: 'Web Check', url: 'https://webcheck.trap.lol/' }],
-      //['x', { name: 'Seven Seas', url: 'https://dash.trap.lol/hub/x' }],
+      ['x', { name: '1337x', url: 'https://1337x.to' }],
       //['y', { name: 'YT Download', url: 'https://ytdlp.trap.lol/' }],
       //['z', { name: 'WhiteBoard', url: 'https://wbo.trap.lol' }],
       [
