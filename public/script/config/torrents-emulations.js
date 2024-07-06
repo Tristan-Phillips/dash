@@ -8,7 +8,7 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['b', { name: 'BlueRoms', url: 'https://www.blueroms.ws/' }],
+      ['a', { name: 'BlueRoms', url: 'https://www.blueroms.ws/' }],
       [
         '0',
         {

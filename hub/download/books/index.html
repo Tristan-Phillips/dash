@@ -3,103 +3,10 @@
 <meta name="color-scheme" content="dark light" />
 <meta name="robots" content="noindex" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Hub</title>
+<title>Download - Books</title>
 
-<style>
-  :root {
-    --border-radius: 1rem;
-    --color-background: #111;
-    --color-text-subtle: #888;
-    --color-text: #eee;
-    --font-family: -apple-system, Helvetica, sans-serif;
-    --font-size: clamp(16px, 1.6vw, 18px);
-    --font-weight-bold: 700;
-    --font-weight-normal: 400;
-    --space: 1rem;
-    --transition-speed: 200ms;
-  }
-
-  @media (prefers-color-scheme: light) {
-    :root {
-      --color-background: #e8e8e8;
-      --color-text-subtle: #606060;
-      --color-text: #111;
-    }
-  }
-</style>
-
-<script>
-  const CONFIG = {
-    commandPathDelimiter: '/',
-    commandSearchDelimiter: ' ',
-    //defaultSearchTemplate: 'https://duckduckgo.com/?q={}',
-    defaultSearchTemplate: 'https://kagi.com/search?q={}',
-    openLinksInNewTab: true,
-    suggestionLimit: 4,
-  };
-
-  const COMMANDS = new Map([
-    ['a', { name: 'AI Chat', url: 'https://web.chatboxai.app/' }],
-    //['b', { name: '-', url: '-' }],
-    ['c', { name: 'Calendar', url: 'https://calendar.proton.me/u/1/' }],
-    ['d', { name: 'Drive', url: 'https://drive.proton.me/u/1/' }],
-    //['e', { name: '-', url: '-' }],
-    //['f', { name: '-', url: '-' }],
-    ['g', { name: 'GitHub', url: 'https://github.com' }],
-    ['h', { name: 'Hacker News', url: 'https://news.ycombinator.com/' }],
-    ['i', { name: 'Images', url: 'https://url.trap.lol/img' }],
-    //['j', { name: '-', url: '-' }],
-    ['k', { name: 'Knowledge', url: 'https://knowledge.trap.lol/' }],
-    //['l', { name: '-', url: '-' }],
-    ['m', { name: 'Mail', url: 'https://mail.proton.me/u/0/inbox' }],
-    //['n', { name: '-', url: '-' }],
-    //['o', { name: '-', url: '-' }],
-    [
-      'p',
-      { name: 'Passwords', url: 'https://start.1password.com/signin?l=en' },
-    ],
-    //['q', { name: '-', url: '-' }],
-    [
-      'r',
-      {
-        name: 'Reddit',
-        suggestions: [
-          'r/r/dunememes',
-          'r/r/antiwork',
-          'r/r/ADHDmemes',
-          'r/r/ProgrammerHumor',
-        ],
-        url: 'https://reddit.com',
-      },
-    ],
-    ['s', { name: 'Social', url: 'https://social.trap.lol/' }],
-    ['t', { name: 'Translate', url: 'https://www.deepl.com/translator' }],
-    //['u', { name: '-', url: '-' }],
-
-    //['v', { name: '-', url: '-' }],
-    ['w', { name: 'Wolfram', url: 'https://www.wolframalpha.com/' }],
-    ['x', { name: 'Personal AI', url: 'https://app.personal.ai/login' }],
-
-    [
-      'y',
-      {
-        name: 'YouTube',
-        searchTemplate: '/results?search_query={}',
-        url: 'https://youtube.com/',
-      },
-    ],
-    //['z', { name: 'TxtDot', url: 'https://url.trap.lol/txt' }],
-    [
-      '0',
-      {
-        name: 'localhost',
-        searchTemplate: ':{}',
-        suggestions: ['0 54323', '0 54324'],
-        url: 'http://localhost:8080',
-      },
-    ],
-  ]);
-</script>
+<link rel="stylesheet" href="../../../public/style/style.css">
+<script src="../../../public/script/config/download-books.js"></script>
 
 <template id="commands-template">
   <style>
@@ -575,30 +482,7 @@
   customElements.define('search-component', Search);
 </script>
 
-<style>
-  html {
-    background-color: var(--color-background);
-    font-family: var(--font-family);
-    font-size: var(--font-size);
-    line-height: 1.4;
-  }
 
-  body {
-    margin: 0;
-  }
-
-  main {
-    align-items: center;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center;
-    min-height: 100vh;
-    overflow: hidden;
-    padding: calc(var(--space) * 4) var(--space);
-    position: relative;
-    width: 100vw;
-  }
-</style>
 
 <main>
   <commands-component></commands-component>

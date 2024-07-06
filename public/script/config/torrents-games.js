@@ -8,9 +8,9 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['d', { name: 'Dodi', url: 'https://dodi-repacks.site/' }],
-      ['f', { name: 'FitGirl', url: 'https://fitgirl-repacks.site/' }],
-      ['g', { name: 'GOG', url: 'https://freegogpcgames.com/' }],
+      ['a', { name: 'Dodi', url: 'https://dodi-repacks.site/' }],
+      ['b', { name: 'FitGirl', url: 'https://fitgirl-repacks.site/' }],
+      ['c', { name: 'GOG', url: 'https://freegogpcgames.com/' }],
       [
         '0',
         {

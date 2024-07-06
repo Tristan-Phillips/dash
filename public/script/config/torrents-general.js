@@ -8,15 +8,15 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['b', { name: 'Bit Search', url: 'https://bitsearch.to/' }],
-      ['d', { name: 'BTDIG', url: 'https://btdig.com/' }],
-      ['e', { name: 'EXT', url: 'https://ext.to/' }],
-      ['g', { name: 'BT4G', url: 'https://bt4gprx.com/' }],
-      ['l', { name: 'LimeTorrents', url: 'https://www.limetorrents.lol/' }],
-      ['m', { name: 'BitMet', url: 'https://btmet.com/' }],
-      ['t', { name: 'TPro', url: 'https://www.torrentdownloads.pro/' }],
-      ['x', { name: '1337x', url: 'https://1337x.to' }],
-      ['y', { name: 'TGalaxy', url: 'https://torrentgalaxy.to/' }],
+      ['a', { name: 'Bit Search', url: 'https://bitsearch.to/' }],
+      ['b', { name: 'BTDIG', url: 'https://btdig.com/' }],
+      ['c', { name: 'EXT', url: 'https://ext.to/' }],
+      ['d', { name: 'BT4G', url: 'https://bt4gprx.com/' }],
+      ['e', { name: 'LimeTorrents', url: 'https://www.limetorrents.lol/' }],
+      ['f', { name: 'BitMet', url: 'https://btmet.com/' }],
+      ['g', { name: 'TPro', url: 'https://www.torrentdownloads.pro/' }],
+      ['h', { name: '1337x', url: 'https://1337x.to' }],
+      ['i', { name: 'TGalaxy', url: 'https://torrentgalaxy.to/' }],
       [
         '0',
         {
