@@ -37,10 +37,8 @@ const CONFIG = {
       [
         '0',
         {
-          name: 'localhost',
-          searchTemplate: ':{}',
-          suggestions: ['0 54323', '0 54324'],
-          url: 'http://localhost:8080',
+          name: 'Index',
+          url: 'http://dash.trap.lol/hub/index',
         },
       ],
     ]);
