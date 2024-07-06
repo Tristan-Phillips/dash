@@ -8,11 +8,7 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['1', { name: 'Anime', url: 'https://dash.trap.lol/hub/torrents/anime' }],
-      ['2', { name: 'General', url: 'https://dash.trap.lol/hub/torrents/general' }],
-      ['3', { name: 'Books', url: 'https://dash.trap.lol/hub/torrents/books' }],
-      ['4', { name: 'Emulations', url: 'https://dash.trap.lol/hub/torrents/emulators' }],
-
+      ['b', { name: 'BlueRoms', url: 'https://www.blueroms.ws/' }],
       [
         '0',
         {
