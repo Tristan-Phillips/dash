@@ -12,7 +12,7 @@ const CONFIG = {
       ['2', { name: 'General', url: 'https://dash.trap.lol/hub/torrents/general' }],
       ['3', { name: 'Books', url: 'https://dash.trap.lol/hub/torrents/books' }],
       ['4', { name: 'Emulations', url: 'https://dash.trap.lol/hub/torrents/emulators' }],
-
+      ['5', { name: 'Games', url: 'https://dash.trap.lol/hub/torrents/games' }],
       [
         '0',
         {
