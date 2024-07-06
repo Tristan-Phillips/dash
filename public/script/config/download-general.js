@@ -8,14 +8,10 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['1', { name: 'Anime', url: 'https://dash.trap.lol/hub/download/anime' }],
-      ['2', { name: 'General', url: 'https://dash.trap.lol/hub/download/general' }],
-      ['3', { name: 'Books', url: 'https://dash.trap.lol/hub/download/books' }],
-      ['4', { name: 'Emulations', url: 'https://dash.trap.lol/hub/download/emulators' }],
-      ['5', { name: 'Games', url: 'https://dash.trap.lol/hub/download/emulators' }],
-      ['6', { name: 'Movie && TV', url: 'https://dash.trap.lol/hub/download/movie-tv' }],
-      ['7', { name: 'Music', url: 'https://dash.trap.lol/hub/download/music' }],
-
+      ['a', { name: 'FileP', url: 'https://filepursuit.com/' }],
+      ['b', { name: 'Aorg', url: 'https://archive.org/' }],
+      ['c', { name: 'Scnlog', url: 'https://scnlog.me/' }],
+      ['d', { name: 'SA', url: 'https://softarchive.is/' }],
       [
         '0',
         {
