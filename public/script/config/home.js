@@ -12,7 +12,7 @@ const CONFIG = {
       //['b', { name: 'Blogs', url: 'https://blog.trap.lol' }],
       ['c', { name: 'Cyberchef', url: 'https://url.trap.lol/cyberchef' }],
       ['d', { name: 'Database', url: 'https://url.trap.lol/db' }],
-      //['e', { name: 'Entertainment', url: 'https://dash.trap.lol/hub/e' }],
+      ['e', { name: 'ScreenShare', url: 'https://url.trap.lol/screenshare' }],
       ['f', { name: 'RSS Feed', url: 'https://url.trap.lol/rss' }],
       //['g', { name: 'Gaming', url: 'https://dash.trap.lol/hub/g' }],
       //['h', { name: 'Health', url: 'https://dash.trap.lol/hub/h' }],
