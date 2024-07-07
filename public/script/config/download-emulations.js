@@ -8,18 +8,18 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['a', { name: 'ConsoleRom', url: 'https://www.consoleroms.com/' }],  
-      ['b', { name: 'CD', url: 'https://cdromance.org/' }],
-      ['c', { name: 'EmuLand', url: 'https://www.emu-land.net/en' }],
-      ['d', { name: 'Myrient', url: 'https://myrient.erista.me/' }],
-      ['e', { name: 'EGames', url: 'https://www.emugames.net/' }],
-      ['f', { name: 'RomHustler', url: 'https://romhustler.org/' }],
-      ['g', { name: 'Nintendo', url: 'https://nxbrew.com/' }],
-      ['h', { name: 'Retrostic', url: 'https://www.retrostic.com/' }],
-      ['i', { name: 'Romsever', url: 'https://romsever.com/' }],
-      ['j', { name: 'RomHacking', url: 'https://www.romhacking.net/' }],
-      ['k', { name: 'RHeaven', url: 'https://romheaven.com/' }],
-      ['l', { name: 'HappyRoms', url: 'https://happyroms.com/' }],
+      ['a', { name: 'ConsoleRom', url: 'https://url.trap.lol/consoleroms' }],  
+      ['b', { name: 'CD', url: 'https://url.trap.lol/cdromance' }],
+      ['c', { name: 'EmuLand', url: 'https://url.trap.lol/emu-land' }],
+      ['d', { name: 'Myrient', url: 'https://url.trap.lol/myrient' }],
+      ['e', { name: 'EGames', url: 'https://url.trap.lol/emugames' }],
+      ['f', { name: 'RomHustler', url: 'https://url.trap.lol/romhustler' }],
+      ['g', { name: 'Nintendo', url: 'https://url.trap.lol/nxbrew' }],
+      ['h', { name: 'Retrostic', url: 'https://url.trap.lol/retrostic' }],
+      ['i', { name: 'Romsever', url: 'https://url.trap.lol/romsever' }],
+      ['j', { name: 'RomHacking', url: 'https://url.trap.lol/romhacking' }],
+      ['k', { name: 'RHeaven', url: 'https://url.trap.lol/romheaven' }],
+      ['l', { name: 'HappyRoms', url: 'https://url.trap.lol/happyroms' }],
       [
         '0',
         {

@@ -21,5 +21,3 @@ const CONFIG = {
         },
       ],
     ]);
-
-    docker exec -it my_shlink shlink api-key:generate

@@ -8,18 +8,18 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['a', { name: 'ATop', url: 'https://atopgames.com/' }],
-      ['b', { name: 'GBounty', url: 'https://gamebounty.world/' }],
-      ['c', { name: 'G4U', url: 'https://g4u.to/' }],
-      ['d', { name: 'GDie', url: 'https://gamdie.com/' }],
-      ['e', { name: 'GDrive', url: 'https://gamedrive.org/' }],
-      ['f', { name: 'GsDrive', url: 'https://gamesdrive.net/' }],
-      ['g', { name: 'GmzDL', url: 'https://gamezdl.cc/' }],
-      ['h', { name: 'GOGg', url: 'https://gog-games.to/' }],
-      ['i', { name: 'OgDownl', url: 'https://oldgamesdownload.com/' }],
-      ['j', { name: 'OvAg', url: 'https://www.ovagames.com/' }],
-      ['k', { name: 'RldSteam', url: 'https://reloadedsteam.com/' }],
-      ['l', { name: 'SRip', url: 'https://steamrip.com/' }],
+      ['a', { name: 'ATop', url: 'https://url.trap.lol/atopgames' }],
+      ['b', { name: 'GBounty', url: 'https://url.trap.lol/gamebounty' }],
+      ['c', { name: 'G4U', url: 'https://url.trap.lol/g4u' }],
+      ['d', { name: 'GDie', url: 'https://url.trap.lol/gamdie' }],
+      ['e', { name: 'GDrive', url: 'https://url.trap.lol/gamedrive' }],
+      ['f', { name: 'GsDrive', url: 'https://url.trap.lol/gamesdrive' }],
+      ['g', { name: 'GmzDL', url: 'https://url.trap.lol/gamezdl' }],
+      ['h', { name: 'GOGg', url: 'https://url.trap.lol/gog-games' }],
+      ['i', { name: 'OgDownl', url: 'https://url.trap.lol/oldgamesdownload' }],
+      ['j', { name: 'OvAg', url: 'https://url.trap.lol/ovagames' }],
+      ['k', { name: 'RldSteam', url: 'https://url.trap.lol/reloadedsteam' }],
+      ['l', { name: 'SRip', url: 'https://url.trap.lol/steamrip' }],
       [
         '0',
         {

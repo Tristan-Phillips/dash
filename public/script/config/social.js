@@ -8,10 +8,10 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-        ['d', { name: 'Discord', url: 'https://dishub.io/' }],
-        ['m', { name: 'Mastodon', url: 'https://instances.social/' }],
-        ['r', { name: 'Reddit', url: 'https://www.reddit.com/' }],
-        ['y', { name: 'YouTube', url: 'https://youtube.com/' }],
+        ['d', { name: 'Discord', url: 'https://url.trap.lol/dishub' }],
+        ['m', { name: 'Mastodon', url: 'https://url.trap.lol/instances' }],
+        ['r', { name: 'Reddit', url: 'https://url.trap.lol/redditgeneral' }],
+        ['y', { name: 'YouTube', url: 'https://url.trap.lol/youtubegeneral' }],
       [
         '0',
         {

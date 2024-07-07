@@ -8,7 +8,7 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['a', { name: 'BlueRoms', url: 'https://www.blueroms.ws/' }],
+      ['a', { name: 'BlueRoms', url: 'https://url.trap.lol/blueroms' }],
       [
         '0',
         {

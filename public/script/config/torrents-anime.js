@@ -8,11 +8,11 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['a', { name: 'Beatrice-raw', url: 'https://beatrice-raws.org/' }],
-      ['b', { name: 'Nyaa', url: 'https://nyaa.si/' }],
-      ['c', { name: 'SubsPlz', url: 'https://subsplease.org/' }],
-      ['d', { name: 'Shana', url: 'https://www.shanaproject.com/' }],
-      ['e', { name: 'Tokyo', url: 'https://www.tokyotosho.info/?cat=1' }],
+      ['a', { name: 'Beatrice-raw', url: 'https://url.trap.lol/beatrice-raws' }],
+      ['b', { name: 'Nyaa', url: 'https://url.trap.lol/nyaa' }],
+      ['c', { name: 'SubsPlz', url: 'https://url.trap.lol/subsplease' }],
+      ['d', { name: 'Shana', url: 'https://url.trap.lol/shanaproject' }],
+      ['e', { name: 'Tokyo', url: 'https://url.trap.lol/tokyotosho' }],
       [
         '0',
         {

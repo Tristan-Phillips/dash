@@ -8,19 +8,19 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['a', { name: 'Anna', url: 'https://annas-archive.gs/?' }],
-      ['b', { name: 'CourseBag', url: 'https://coursesbag.com/' }],
-      ['c', { name: 'DFC', url: 'https://downloadfreecourse.com/' }],
-      ['d', { name: 'eHunter', url: 'https://ebook-hunter.org/' }],
-      ['e', { name: 'PDFDrive', url: 'https://pdfdrive.to/' }],
-      ['f', { name: 'Comics', url: 'https://getcomics.org/' }],
-      ['g', { name: 'PMagazine', url: 'https://pdfmagazines.club/' }],
-      ['h', { name: 'Libgen', url: 'https://libgen.is/' }],
-      ['i', { name: 'DMagz', url: 'https://downmagaz.net/' }],
-      ['j', { name: 'Aorg', url: 'https://archive.org/details/texts' }],
-      ['k', { name: 'OPDF', url: 'https://oceanofpdf.com/' }],
-      ['l', { name: 'PDFRoom', url: 'https://pdfroom.com/' }],
-      ['m', { name: 'Zlib', url: 'https://singlelogin.re/' }],
+      ['a', { name: 'Anna', url: 'https://url.trap.lol/annas-archive' }],
+      ['b', { name: 'CourseBag', url: 'https://url.trap.lol/coursesbag' }],
+      ['c', { name: 'DFC', url: 'https://url.trap.lol/downloadfreecourse' }],
+      ['d', { name: 'eHunter', url: 'https://url.trap.lol/ebook-hunter' }],
+      ['e', { name: 'PDFDrive', url: 'https://url.trap.lol/pdfdrive' }],
+      ['f', { name: 'Comics', url: 'https://url.trap.lol/getcomics' }],
+      ['g', { name: 'PMagazine', url: 'https://url.trap.lol/pdfmagazines' }],
+      ['h', { name: 'Libgen', url: 'https://url.trap.lol/libgen' }],
+      ['i', { name: 'DMagz', url: 'https://url.trap.lol/downmagaz' }],
+      ['j', { name: 'Aorg', url: 'https://url.trap.lol/archive-texts' }],
+      ['k', { name: 'OPDF', url: 'https://url.trap.lol/oceanofpdf' }],
+      ['l', { name: 'PDFRoom', url: 'https://url.trap.lol/pdfroom' }],
+      ['m', { name: 'Zlib', url: 'https://url.trap.lol/singlelogin' }],
       [
         '0',
         {

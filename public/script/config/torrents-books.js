@@ -8,7 +8,7 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['a', { name: 'Academic', url: 'https://academictorrents.com/' }],
+      ['a', { name: 'Academic', url: 'https://url.trap.lol/academictorrents' }],
       [
         '0',
         {
