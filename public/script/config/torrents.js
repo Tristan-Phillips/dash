@@ -8,16 +8,16 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-      ['1', { name: 'Anime', url: 'https://dash.trap.lol/hub/torrents/anime' }],
-      ['2', { name: 'General', url: 'https://dash.trap.lol/hub/torrents/general' }],
-      ['3', { name: 'Books', url: 'https://dash.trap.lol/hub/torrents/books' }],
-      ['4', { name: 'Emulations', url: 'https://dash.trap.lol/hub/torrents/emulators' }],
-      ['5', { name: 'Games', url: 'https://dash.trap.lol/hub/torrents/games' }],
+      ['1', { name: 'Anime', url: 'https://url.trap.lol/torrents-anime' }],
+      ['2', { name: 'General', url: 'https://url.trap.lol/torrents-general' }],
+      ['3', { name: 'Books', url: 'https://url.trap.lol/torrents-books' }],
+      ['4', { name: 'Emulations', url: 'https://url.trap.lol/torrents-emulators' }],
+      ['5', { name: 'Games', url: 'https://url.trap.lol/torrents-games' }],
       [
         '0',
         {
           name: 'Home',
-          url: 'http://dash.trap.lol',
+          url: 'https://url.trap.lol/dash',
         },
       ],
     ]);

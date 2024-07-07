@@ -17,7 +17,7 @@ const CONFIG = {
         '0',
         {
           name: 'Home',
-          url: 'http://dash.trap.lol',
+          url: 'https://url.trap.lol/dash',
         },
       ],
     ]);

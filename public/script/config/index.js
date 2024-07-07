@@ -8,14 +8,14 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-        ['1', { name: 'Torrents', url: 'https://dash.trap.lol/hub/torrents/' }],
-        ['2', { name: 'Social', url: 'https://dash.trap.lol/hub/social/' }],
-        ['3', { name: 'Downloads', url: 'https://dash.trap.lol/hub/download/' }],
+        ['1', { name: 'Torrents', url: 'https://url.trap.lol/torrents' }],
+        ['2', { name: 'Social', url: 'https://url.trap.lol/socialdash' }],
+        ['3', { name: 'Downloads', url: 'https://url.trap.lol/download' }],
       [
         '0',
         {
           name: 'Home',
-          url: 'http://dash.trap.lol',
+          url: 'https://url.trap.lol/dash',
         },
       ],
     ]);

@@ -38,7 +38,7 @@ const CONFIG = {
         '0',
         {
           name: 'Index',
-          url: 'http://dash.trap.lol/hub/index',
+          url: 'https://url.trap.lol/dash-index',
         },
       ],
     ]);
