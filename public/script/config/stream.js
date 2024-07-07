@@ -8,10 +8,9 @@ const CONFIG = {
     };
   
     const COMMANDS = new Map([
-        ['1', { name: 'Torrents', url: 'https://url.trap.lol/torrents' }],
-        ['2', { name: 'Social', url: 'https://url.trap.lol/socialdash' }],
-        ['3', { name: 'Downloads', url: 'https://url.trap.lol/download' }],
-        ['4', { name: 'Stream', url: 'https://url.trap.lol/stream' }],
+      ['a', { name: 'Anime', url: 'https://url.trap.lol/anix' }],
+      ['b', { name: 'TV && Movies', url: 'https://url.trap.lol/flixtorz' }],
+      ['c', { name: 'AudioBooks', url: 'https://url.trap.lol/audiobooks' }],
       [
         '0',
         {
