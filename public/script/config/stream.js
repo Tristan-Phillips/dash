@@ -11,6 +11,7 @@ const CONFIG = {
       ['a', { name: 'Anime', url: 'https://url.trap.lol/anix' }],
       ['b', { name: 'TV && Movies', url: 'https://url.trap.lol/flixtorz' }],
       ['c', { name: 'AudioBooks', url: 'https://url.trap.lol/audiobooks' }],
+      ['d', { name: 'LiveTV', url: 'https://url.trap.lol/thetvapp' }],
       [
         '0',
         {
