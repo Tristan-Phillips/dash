@@ -41,7 +41,7 @@ const CONFIG = {
         },
       ],
       [
-        '2',
+        '3',
         {
           name: 'Message',
           url: 'https://url.trap.lol/rec-message',
