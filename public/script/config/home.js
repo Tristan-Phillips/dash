@@ -54,6 +54,13 @@ const CONFIG = {
         },
       ],
       [
+        '5',
+        {
+          name: 'Storage',
+          url: 'https://url.trap.lol/rec-storage',
+        },
+      ],
+      [
         '9',
         {
           name: 'Tools',
