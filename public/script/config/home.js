@@ -16,7 +16,6 @@ const CONFIG = {
         // ['m', { name: 'Mail', url: 'https://url.trap.lol/mail' }],
         // ['n', { name: 'NS', url: 'https://url.trap.lol/cloudflare' }],
             
-        // ['s', { name: 'Message', url: 'https://url.trap.lol/message' }],
         // ['y', { name: 'DNS', url: 'https://url.trap.lol/dns' }],
         // ['z', { name: 'VPS', url: 'https://url.trap.lol/vps' }],
       [
@@ -45,6 +44,13 @@ const CONFIG = {
         {
           name: 'Message',
           url: 'https://url.trap.lol/rec-message',
+        },
+      ],
+      [
+        '4',
+        {
+          name: 'Search',
+          url: 'https://url.trap.lol/rec-search',
         },
       ],
       [
